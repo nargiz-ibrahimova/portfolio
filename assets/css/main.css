@@ -443,7 +443,8 @@ img {
   background-color: transparent;
 }
 
-.video {
+.video-background .video,
+#video-wrapper .video {
   display: block;
   position: absolute;
   top: 0;
@@ -4422,8 +4423,6 @@ form textarea:required:valid {
   -webkit-box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22);
      -moz-box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22);
           box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22);
-  -ms-scroll-chaining: none;
-      overscroll-behavior: contain;
 }
 @media only screen and (min-width: 768px) {
   .popup {
@@ -4790,16 +4789,8 @@ form textarea:required:valid {
 
 .mfp-wrap {
   position: fixed !important;
-}
-
-.mfp-fade {
-  overflow: hidden;
-}
-
-.mfp-fade .mfp-container {
-  position: fixed;
-  overflow-y: scroll;
-  overscroll-behavior: contain;
+  -ms-scroll-chaining: none;
+      overscroll-behavior: contain;
 }
 
 .mfp-bg {
