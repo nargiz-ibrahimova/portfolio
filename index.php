@@ -389,6 +389,16 @@
                                                     </div>
                                                 </div>
                                             </div>
+                                            <!-- portfolio stack single item -->
+                                            <div class="stack-item">
+                                                <div data-mfp-src="#portfolio-popup-5" class="portfolio-stack__inner portfolio-item-5 popup-trigger"
+                                                     style="background-image: url('assets/img/works/olivia/olivia-cover.webp');">
+                                                    <div class="portfolio-stack__descr w-75">
+                                                        <h3 class="portfolio-stack__title dark">Olivia</h3>
+                                                        <p class="portfolio-stack__text type-basic-160lh dark opacity-75">Concept Campaign</p>
+                                                    </div>
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -1241,6 +1251,21 @@
                                                     </div>
                                                     <!-- project divider line -->
                                                     <div class="project__divider"></div>
+
+                                                    <!-- Project Block - Project Link Start -->
+                                                    <div class="project__block small-size">
+                                                        <div class="container-fluid p-0">
+                                                            <div class="row g-0">
+                                                                <div class="col-12 d-flex justify-content-center">
+                                                                    <button class="btn btn-circle-text hover-circle" onclick="triggerClicks(4)">
+                                                                        <em></em>
+                                                                        <span class="btn-caption">Next Work</span>
+                                                                    </button>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <!-- Project Block - Project Link End -->
                                                 </div>
                                                 <!-- Project Block - Client's Feedback End -->
                                             </div>
@@ -1251,6 +1276,232 @@
                             <!-- Popup Content End -->
                         </div>
                         <!-- Portfilio Single Item Popup №4 End -->
+                        <!-- Portfilio Single Item Popup №5 Start -->
+                        <div id="portfolio-popup-5" class="popup mfp-hide">
+                            <!-- Popup Close Button Start -->
+                            <button class="mfp-close permanent-light"></button>
+                            <!-- Popup Close Button End -->
+
+                            <!-- Popup Content Start -->
+                            <div class="popup__container">
+                                <div class="container-fluid p-0">
+                                    <div class="row g-0">
+                                        <div class="col-12">
+                                            <div class="project">
+                                                <!-- Project Block - Title with Image Start -->
+                                                <div class="project__block no-padding no-margin project-image-bg">
+                                                    <img class="project-image-bg__portrait" src="assets/img/works/olivia/olivia-cover.webp"
+                                                         alt="Project Illustration" loading="lazy">
+                                                    <img class="project-image-bg__landscape" src="assets/img/works/olivia/olivia-cover.webp"
+                                                         alt="Project Illustration" loading="lazy">
+                                                    <div class="project__title">
+                                                        <h3 class="dark">Olivia</h3>
+                                                    </div>
+                                                </div>
+                                                <!-- Project Block - Title with Image End -->
+
+                                                <!-- Project Block - Description Start -->
+                                                <div class="project__block grid-block grid-items">
+                                                    <div class="project__data">
+                                                        <div class="container-fluid p-0">
+                                                            <div class="row g-0">
+                                                                <div class="col-12 grid-item">
+                                                                    <p class="type-basic-160lh">
+                                                                        A concept task for Olivia Beauty &amp; Care, an Azerbaijani personal care
+                                                                        brand. The work explores two directions: a summer sale festival campaign
+                                                                        built on the circular shapes at the heart of Olivia's identity, and
+                                                                        "Olivia Fairies", a character concept that gives each product category its
+                                                                        own guide. Presented in Azerbaijani for the local market.
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Project Block - Description End -->
+
+                                                <!-- Project Block - Summer Festival Intro Start -->
+                                                <div class="project__block normal-size no-margin-bottom">
+                                                    <div class="project__descr">
+                                                        <div class="container-fluid p-0">
+                                                            <div class="row g-0">
+                                                                <div class="col-12 col-xl-2">
+                                                                    <p class="project__subtitle image-top-subtitle tagline-chapter">Summer festival</p>
+                                                                </div>
+                                                                <div class="col-12 col-xl-10">
+                                                                    <div class="project__feedback">
+                                                                        <div class="feedback__descr mt-0">
+                                                                            <p class="type-basic-160lh">The circles Olivia always carries in its
+                                                                                visuals are reused here as a sun and a sea, so the summer sale
+                                                                                festival stays warm while the brand identity is preserved.</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Project Block - Summer Festival Intro End -->
+
+                                                <!-- Project Block - Illustration Fullwidth Start -->
+                                                <div class="project__block">
+                                                    <div class="project__illustration-xl">
+                                                        <img src="assets/img/works/olivia/summer-festival-concept.webp"
+                                                             alt="Project Illustration" loading="lazy">
+                                                    </div>
+                                                </div>
+                                                <!-- Project Block - Illustration Fullwidth End -->
+
+                                                <!-- Project Block - Illustration Fullwidth Start -->
+                                                <div class="project__block no-margin">
+                                                    <div class="project__illustration-xl">
+                                                        <img src="assets/img/works/olivia/summer-festival-web-banners.webp"
+                                                             alt="Project Illustration" loading="lazy">
+                                                    </div>
+                                                </div>
+                                                <!-- Project Block - Illustration Fullwidth End -->
+
+                                                <!-- Project Block - Illustration Fullwidth Start -->
+                                                <div class="project__block">
+                                                    <div class="project__illustration-xl">
+                                                        <img src="assets/img/works/olivia/summer-festival-social.webp"
+                                                             alt="Project Illustration" loading="lazy">
+                                                    </div>
+                                                </div>
+                                                <!-- Project Block - Illustration Fullwidth End -->
+
+                                                <!-- Project Block - Fairies Intro Start -->
+                                                <div class="project__block normal-size no-margin-bottom">
+                                                    <div class="project__descr">
+                                                        <div class="container-fluid p-0">
+                                                            <div class="row g-0">
+                                                                <div class="col-12 col-xl-2">
+                                                                    <p class="project__subtitle image-top-subtitle tagline-chapter">Olivia fairies</p>
+                                                                </div>
+                                                                <div class="col-12 col-xl-10">
+                                                                    <div class="project__feedback">
+                                                                        <div class="feedback__descr mt-0">
+                                                                            <p class="type-basic-160lh">A second direction asks what Olivia's own
+                                                                                trend would look like if the brand made it with AI. Seven fairies
+                                                                                stand for seven product categories, each one a guide for the
+                                                                                customers shopping that shelf. The fairy visuals here were generated
+                                                                                with AI tools as directional samples, meant to be refined toward
+                                                                                Olivia's own style.</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Project Block - Fairies Intro End -->
+
+                                                <!-- Project Block - Illustration Fullwidth Start -->
+                                                <div class="project__block">
+                                                    <div class="project__illustration-xl">
+                                                        <img src="assets/img/works/olivia/ai-concept-intro.webp"
+                                                             alt="Project Illustration" loading="lazy">
+                                                    </div>
+                                                </div>
+                                                <!-- Project Block - Illustration Fullwidth End -->
+
+                                                <!-- Project Block - Illustrations Grid Start -->
+                                                <div class="project__block grid-block no-margin">
+                                                    <div class="project__illustrations">
+                                                        <div class="container-fluid p-0">
+                                                            <div class="row g-0">
+                                                                <div class="col-12 col-md-6 grid-item">
+                                                                    <div class="project__illustration">
+                                                                        <img src="assets/img/works/olivia/fairy-beauty.webp"
+                                                                             alt="Work Illustration" loading="lazy">
+                                                                    </div>
+                                                                </div>
+                                                                <div class="col-12 col-md-6 grid-item">
+                                                                    <div class="project__illustration">
+                                                                        <img src="assets/img/works/olivia/fairy-hair.webp"
+                                                                             alt="Work Illustration" loading="lazy">
+                                                                    </div>
+                                                                </div>
+                                                                <div class="col-12 col-md-6 grid-item">
+                                                                    <div class="project__illustration">
+                                                                        <img src="assets/img/works/olivia/fairy-care.webp"
+                                                                             alt="Work Illustration" loading="lazy">
+                                                                    </div>
+                                                                </div>
+                                                                <div class="col-12 col-md-6 grid-item">
+                                                                    <div class="project__illustration">
+                                                                        <img src="assets/img/works/olivia/fairy-sun.webp"
+                                                                             alt="Work Illustration" loading="lazy">
+                                                                    </div>
+                                                                </div>
+                                                                <div class="col-12 col-md-6 grid-item">
+                                                                    <div class="project__illustration">
+                                                                        <img src="assets/img/works/olivia/fairy-youth.webp"
+                                                                             alt="Work Illustration" loading="lazy">
+                                                                    </div>
+                                                                </div>
+                                                                <div class="col-12 col-md-6 grid-item">
+                                                                    <div class="project__illustration">
+                                                                        <img src="assets/img/works/olivia/fairy-nature.webp"
+                                                                             alt="Work Illustration" loading="lazy">
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Project Block - Illustrations Grid End -->
+
+                                                <!-- Project Block - Illustration Fullwidth Start -->
+                                                <div class="project__block">
+                                                    <div class="project__illustration-xl">
+                                                        <img src="assets/img/works/olivia/fairy-sleep.webp"
+                                                             alt="Project Illustration" loading="lazy">
+                                                    </div>
+                                                </div>
+                                                <!-- Project Block - Illustration Fullwidth End -->
+
+                                                <!-- Project Block - Illustration Fullwidth Start -->
+                                                <div class="project__block">
+                                                    <div class="project__illustration-xl">
+                                                        <img src="assets/img/works/olivia/fairy-campaigns.webp"
+                                                             alt="Project Illustration" loading="lazy">
+                                                    </div>
+                                                </div>
+                                                <!-- Project Block - Illustration Fullwidth End -->
+
+                                                <!-- Project Block - Concept Note Start -->
+                                                <div class="project__block normal-size no-margin-bottom">
+                                                    <div class="project__descr">
+                                                        <div class="container-fluid p-0">
+                                                            <div class="row g-0">
+                                                                <div class="col-12 col-xl-2">
+                                                                    <p class="project__subtitle image-top-subtitle tagline-chapter">Concept work</p>
+                                                                </div>
+                                                                <div class="col-12 col-xl-10">
+                                                                    <div class="project__feedback">
+                                                                        <div class="feedback__descr mt-0">
+                                                                            <p class="type-basic-160lh">Olivia Beauty &amp; Care — a concept
+                                                                                campaign proposal, created independently of the brand.</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <!-- project divider line -->
+                                                    <div class="project__divider"></div>
+                                                </div>
+                                                <!-- Project Block - Concept Note End -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Popup Content End -->
+                        </div>
+                        <!-- Portfilio Single Item Popup №5 End -->
+
                     </div>
                 </div>
             </div>
