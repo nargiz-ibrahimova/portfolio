@@ -5944,12 +5944,15 @@ form textarea:required:valid {
 }
 
 /* Olivia card + hero: titles follow the active theme (white in dark mode,
-   dark in light mode) instead of the permanent light/dark variants. */
+   dark in light mode) instead of the permanent light/dark variants.
+   DISABLED along with the Olivia work - uncomment to re-enable. */
+/*
 .portfolio-item-5 .portfolio-stack__title,
 .portfolio-item-5 .portfolio-stack__text,
 #portfolio-popup-5 .project__title h3 {
   color: var(--t-bright);
 }
+*/
 
 .portfolio-stack__descr {
   display: none;
