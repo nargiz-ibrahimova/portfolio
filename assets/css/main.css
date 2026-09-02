@@ -5943,6 +5943,14 @@ form textarea:required:valid {
        background-size: cover;
 }
 
+/* Olivia card + hero: titles follow the active theme (white in dark mode,
+   dark in light mode) instead of the permanent light/dark variants. */
+.portfolio-item-5 .portfolio-stack__title,
+.portfolio-item-5 .portfolio-stack__text,
+#portfolio-popup-5 .project__title h3 {
+  color: var(--t-bright);
+}
+
 .portfolio-stack__descr {
   display: none;
   position: absolute;
